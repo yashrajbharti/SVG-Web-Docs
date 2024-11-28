@@ -1,12 +1,12 @@
 # SVG
 
 - [x] [SVGAElement.href](https://developer.mozilla.org/en-US/docs/Web/API/SVGAElement/href)
-- [ ] [SVGAngle.convertToSpecifiedUnits](https://developer.mozilla.org/en-US/docs/Web/API/SVGAngle/convertToSpecifiedUnits)
-- [ ] [SVGAngle.newValueSpecifiedUnits](https://developer.mozilla.org/en-US/docs/Web/API/SVGAngle/newValueSpecifiedUnits)
-- [ ] [SVGAngle.unitType](https://developer.mozilla.org/en-US/docs/Web/API/SVGAngle/unitType)
-- [ ] [SVGAngle.value](https://developer.mozilla.org/en-US/docs/Web/API/SVGAngle/value)
-- [ ] [SVGAngle.valueAsString](https://developer.mozilla.org/en-US/docs/Web/API/SVGAngle/valueAsString)
-- [ ] [SVGAngle.valueInSpecifiedUnits](https://developer.mozilla.org/en-US/docs/Web/API/SVGAngle/valueInSpecifiedUnits)
+- [x] [SVGAngle.convertToSpecifiedUnits](https://developer.mozilla.org/en-US/docs/Web/API/SVGAngle/convertToSpecifiedUnits)
+- [x] [SVGAngle.newValueSpecifiedUnits](https://developer.mozilla.org/en-US/docs/Web/API/SVGAngle/newValueSpecifiedUnits)
+- [x] [SVGAngle.unitType](https://developer.mozilla.org/en-US/docs/Web/API/SVGAngle/unitType)
+- [x] [SVGAngle.value](https://developer.mozilla.org/en-US/docs/Web/API/SVGAngle/value)
+- [x] [SVGAngle.valueAsString](https://developer.mozilla.org/en-US/docs/Web/API/SVGAngle/valueAsString)
+- [x] [SVGAngle.valueInSpecifiedUnits](https://developer.mozilla.org/en-US/docs/Web/API/SVGAngle/valueInSpecifiedUnits)
 - [ ] [SVGAnimatedAngle.animVal](https://developer.mozilla.org/en-US/docs/Web/API/SVGAnimatedAngle/animVal)
 - [ ] [SVGAnimatedAngle.baseVal](https://developer.mozilla.org/en-US/docs/Web/API/SVGAnimatedAngle/baseVal)
 - [ ] [SVGAnimatedBoolean.animVal](https://developer.mozilla.org/en-US/docs/Web/API/SVGAnimatedBoolean/animVal)
